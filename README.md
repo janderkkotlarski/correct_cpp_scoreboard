@@ -8,7 +8,7 @@ master|[![Build Status](https://travis-ci.org/janderkkotlarski/correct_cpp_score
 
 ## Goal
 
- * Experience a light version of [how this course works](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/how_this_course_works.md)
+ * Experience a light version of [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
 
@@ -39,15 +39,15 @@ Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo
 :construction: [hello_qt](https://github.com/janderkkotlarski/correct_cpp_hello_qt)|[![Build Status](https://travis-ci.org/janderkkotlarski/correct_cpp_hello_qt.svg?branch=master)](https://travis-ci.org/janderkkotlarski/correct_cpp_hello_qt) | [![codecov.io](https://codecov.io/github/janderkkotlarski/correct_cpp_hello_qt/coverage.svg?branch=master)](https://codecov.io/github/janderkkotlarski/correct_cpp_hello_qt?branch=master)
 :construction: [to_morse](https://github.com/janderkkotlarski/correct_cpp_to_morse)|[![Build Status](https://travis-ci.org/janderkkotlarski/correct_cpp_to_morse.svg?branch=master)](https://travis-ci.org/janderkkotlarski/correct_cpp_to_morse) | [![codecov.io](https://codecov.io/github/janderkkotlarski/correct_cpp_to_morse/coverage.svg?branch=master)](https://codecov.io/github/janderkkotlarski/correct_cpp_to_morse?branch=master)
 
-This is [how this course works](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/how_this_course_works.md):
+This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
 
   1. Login to [GitHub](https://github.com/)
-  2. Fork this repository. See [fork a chapter](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/1_fork_a_chapter.md) for help
-  3. Clone your fork. See [clone your fork](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/2_clone_your_fork.md) for help
-  4. Activate Travis CI for your GitHub. See [activate](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/3_activate.md) for help
-  5. On your local code, [modify the README](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/4_modify_readme.md): replace `janderkkotlarski/correct_cpp_` by `[your_github_username]/correct_cpp_`
-  6. On your local code, [Do the exercise](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/5_do_the_exercise.md)
-  7. Push your code. See [push your code](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/6_push_your_code.md) for help
+  2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/1_fork_a_chapter.md) for help
+  3. Clone your fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/2_clone_your_fork.md) for help
+  4. Activate Travis CI for your GitHub. See [activate](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/3_activate.md) for help
+  5. On your local code, [modify the README](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/4_modify_readme.md): replace `janderkkotlarski/correct_cpp_` by `[your_github_username]/correct_cpp_`
+  6. On your local code, [Do the exercise](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/5_do_the_exercise.md)
+  7. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/6_push_your_code.md) for help
   8. Travis will now [correct your GitHub](https://github.com/janderkkotlarski/correct_cpp/blob/master/doc/7_correct_your_github.md)
      If you did everything correctly, 
      the build status of your fork will become green. 
